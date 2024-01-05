@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/Blueprints/BP_Character.uasset",
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/animationsCharacter/AB_Character.uasset",
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/Demo/Mesh/SK_Character.uasset",
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/Demo/Mesh/SK_Character_Skeleton.uasset",
 				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Letherfall/Content/Template/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
 				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Letherfall/Content/Template/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Letherfall/Content/__ExternalActors__/Packages/PistolAnimation/System/Map/L_ShowCase/C/60/WDSYY5C0MIP2YGZ2AHBR8T.uasset",
