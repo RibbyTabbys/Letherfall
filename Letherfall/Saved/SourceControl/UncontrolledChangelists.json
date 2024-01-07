@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/Blueprints/BP_Character.uasset",
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/Blueprints/BP_Pistol.uasset",
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/Demo/Mesh/SK_Character.uasset",
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/Demo/Mesh/SK_Character_Skeleton.uasset",
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/Input/IA_PlayerHidden.uasset",
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/Input/IMC_PlayerCtrl.uasset",
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/UI/WP_Stamina.uasset",
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/UI/Widgets/WP_Stamina.uasset",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta.umap",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap",
@@ -16,13 +24,7 @@
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/TeamContent/LunettaDavide_Content/Materials/MM_LandscapeVerticalSlice.uasset",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/TeamContent/LunettaDavide_Content/LayerInfo/Layer_Muddy_Road_LayerInfo.uasset",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/TeamContent/LunettaDavide_Content/LayerInfo/Layer_Moss_LayerInfo.uasset",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/TeamContent/LunettaDavide_Content/LayerInfo/Layer_Mud_LayerInfo.uasset",
-				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/Blueprints/BP_Character.uasset",
-				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/Blueprints/BP_Pistol.uasset",
-				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/Demo/Mesh/SK_Character.uasset",
-				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/Demo/Mesh/SK_Character_Skeleton.uasset",
-				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/Input/IA_PlayerHidden.uasset",
-				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/Input/IMC_PlayerCtrl.uasset"
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/TeamContent/LunettaDavide_Content/LayerInfo/Layer_Mud_LayerInfo.uasset"
 			]
 		}
 	]
