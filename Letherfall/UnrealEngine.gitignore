@@ -41,6 +41,12 @@
 *.VC.db
 *.VC.opendb
 
+# Ignore log files
+*.log
+
+# Ignore INI files
+*.ini
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
