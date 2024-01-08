@@ -5,9 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta.umap"
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta.umap",
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Materials/MI_New_Land.uasset",
+				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap"
 			]
 		}
 	]
