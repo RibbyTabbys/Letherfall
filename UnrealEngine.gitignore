@@ -63,6 +63,8 @@ Build/*
 Build/*/**
 !Build/*/PakBlacklist*.txt
 
+Letherfall/Saved/Logs/*.log
+
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
