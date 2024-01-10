@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta.umap",
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Materials/MI_New_Land.uasset",
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_StartMenu.umap",
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/HauntedVillage/Meshes/SM_Tree_09.uasset",
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Meshes/Foilage/SM_Tree_03.uasset",
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Meshes/Foilage/SM_Tree_02_Still.uasset",
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Meshes/Foilage/SM_Tree_01.uasset",
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Materials/MI_Road_01.uasset",
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Materials/Masters/MM_Road.uasset",
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Materials/Masters/MM_Landscape.uasset",
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Materials/Functions/MF_POM.uasset",
 				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/Blueprints/BP_Character.uasset",
 				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/Input/IMC_PlayerCtrl.uasset",
 				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap",
@@ -18,10 +30,7 @@
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/M_Cube_M_Wood_Floor_Walnut_Worn1_F1E5561948697E7E4994BF9ABAB4AFC2.uasset",
 				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
 				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_FrancescoCelata.umap",
-				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/HauntedVillage/Materials/MI_Fog_Inst2.uasset",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta.umap",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Materials/MI_New_Land.uasset"
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/HauntedVillage/Materials/MI_Fog_Inst2.uasset"
 			]
 		}
 	]
