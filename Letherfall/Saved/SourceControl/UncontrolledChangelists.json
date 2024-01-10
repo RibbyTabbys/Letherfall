@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/Blueprints/BP_Character.uasset",
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/Input/IMC_PlayerCtrl.uasset",
+				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/animationsCharacter/AB_Character.uasset",
 				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap",
 				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Abandoned_Village/Materials/MI_Fog_Sheet_02.uasset",
 				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Abandoned_Village/Meshes/Structure/SM_Door_01_000.uasset",
@@ -26,8 +29,6 @@
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Materials/Masters/MM_Road.uasset",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Materials/Masters/MM_Landscape.uasset",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Materials/Functions/MF_POM.uasset",
-				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/Blueprints/BP_Character.uasset",
-				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/Input/IMC_PlayerCtrl.uasset",
 				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Abandoned_Village/Meshes/Foilage/SM_Tree_02.uasset",
 				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
 				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_FrancescoCelata.umap",
