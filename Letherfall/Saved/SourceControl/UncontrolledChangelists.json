@@ -5,8 +5,37 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/Blueprints/BP_Character.uasset",
 				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/Input/IMC_PlayerCtrl.uasset",
+=======
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_FrancescoCelata.umap",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Animations/Idle_Anim.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Crawler2_Skeleton_Anim_0_T-Pose.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Crawler2_Skeleton_Anim_0_Open_A_UE4.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Crawler2_Skeleton_PhysicsAsset.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Crawler2_Skeleton_Skeleton.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Crawler_MAT2.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Crawler_MAT.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Crawler2_Skeleton.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/ABP_Crawler.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_1/Crawler_MAT_Base_color.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_1/Crawler_MAT_Metallic.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_1/Crawler_MAT_Mixed_AO.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_1/Crawler_MAT_Normal_DirectX.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_1/Crawler_MAT_Roughness.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_1/Mappa_spessore_da_trama_Crawler_MAT.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_1/M_Crawler_1.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_2/M_Crawler_2.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_2/2Crawler_MAT_Roughness.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_2/2Crawler_MAT_Normal_DirectX.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_2/2Crawler_MAT_Mixed_AO.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_2/2Crawler_MAT_Metallic.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_2/2Crawler_MAT_Base_color.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Crawler/Materials/Material_2/2Mappa_spessore_da_trama_Crawler_MAT.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_RiccardoMenghi.umap",
+>>>>>>> Stashed changes
 				"C:/Users/mengh/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_RiccardoMenghi.umap",
 				"C:/Users/mengh/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/HauntedVillage/Meshes/SM_Tree_09.uasset",
@@ -18,8 +47,7 @@
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Meshes/Structure/SM_Church_C_Wall_Corner.uasset",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta.umap",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/LunettaDavide_Content/WBP_VS/WBP_Tutorial_1.uasset",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/LunettaDavide_Content/BP/BP_TutorialSpawner.uasset",
-				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_FrancescoCelata.umap"
+				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/LunettaDavide_Content/BP/BP_TutorialSpawner.uasset"
 			]
 		}
 	]
