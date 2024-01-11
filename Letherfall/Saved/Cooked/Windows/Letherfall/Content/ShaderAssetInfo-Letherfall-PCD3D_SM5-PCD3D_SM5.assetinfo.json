@@ -1,0 +1,822 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "B52E1F00CCAED807C15A9AFC0F76A287B1CC8E00",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "88C87201109170E1452A040197A4503F884D09CC",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MI_Cloth5"
+			]
+		},
+		{
+			"ShaderMapHash": "E887E2014001CC1284960B18E957C69EA9AE23FB",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9B5F1205A792DB0D2E63E352DED5402A5C6B1241",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "730A6705A1648D7910C6B2A4910FEA5B99C12182",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/MI_WoodBeam_Dark_02",
+				"/Game/Abandoned_Village/Materials/MI_WoodBeam_Normal_01",
+				"/Game/Abandoned_Village/Materials/MI_WoodFence_Normal_02",
+				"/Game/Abandoned_Village/Materials/MI_WoodFrame_Dark_03",
+				"/Game/Abandoned_Village/Materials/MI_WoodFrame_Normal_02",
+				"/Game/Abandoned_Village/Materials/MI_WoodPlank_Normal_02",
+				"/Game/Abandoned_Village/Materials/MI_WoodRoof_Normal_03",
+				"/Game/Abandoned_Village/Materials/MI_WoodStructure_Dark_03"
+			]
+		},
+		{
+			"ShaderMapHash": "DAA16F0712DC83866081B2AE5B58EBA8C1B0AA91",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "583E3F09DA130AB2150236D4F6D187879634780A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "67F8D60AF06339AC1F10589838D8EC531A6B3ADB",
+			"Assets": [
+				"/Game/AbandonedPool/Materials/MM_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "293AA00B5BA9833F0763CB901FCE3167D8A9ECE4",
+			"Assets": [
+				"/Game/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta"
+			]
+		},
+		{
+			"ShaderMapHash": "58B1C50E2263C3F7A093B4636964549D4751AE2E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B292C81002B685D638A29F7B4D5A6B8D0B59EEE1",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/MI_Wood_Door_04"
+			]
+		},
+		{
+			"ShaderMapHash": "F054F611C1D0DB0CF5E64624CDB40F0305465073",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5CD90E1218FE2BC26E44705469763671EB05FDCD",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CEFB48128FF01D3C079FDA728288E4D700BB3D28",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "B64A411315C97B9A8BA2B0C8CD53D6EAC46DA028",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_BlendMat_UV_Wood",
+				"/Game/Abandoned_Village/Materials/MI_Wood_House_05",
+				"/Game/Abandoned_Village/Materials/MI_Wood_Normal_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9D1EC815FCFE026ABCC343AD71D6F5DB7E15C7E3",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "BBD48B18CBED7E09D7C41335A6E6740951DE3C58",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "3BB43C1BD1DE8D66FCE4D7F47FA7E493DD8D0038",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "A191811C5DB5991557970E6B9CBEF420916FE415",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "E0B72E1E220B4807DCDF1B469A0FB2F77ED1FAAF",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "32A6CE207D27CFF384E490F2F331F69F1F341519",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MasterMaterials/MM_Tree",
+				"/Game/HauntedVillage/Materials/MI_Tree_Inst1",
+				"/Game/HauntedVillage/Materials/MI_Tree_Inst2",
+				"/Game/HauntedVillage/Materials/MI_Tree_Inst5"
+			]
+		},
+		{
+			"ShaderMapHash": "26130621326E643DE16B1FD5E1507983025B44C7",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6B087627966B66EC444186BFB3E28A0A5A44FB81",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "77A3A82E385E6CB932CCB6ADC60968FDF14BBDC8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "16D8FE2EF233FDCC4B274E69FED8F203150F0D68",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "661ECF36C9E944E9C83E539321394CC39800A8C7",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_Hill_BaseColor"
+			]
+		},
+		{
+			"ShaderMapHash": "6034C538A301AB33237CCDAC13B69B8FBFDC83FF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "4AB1993A5BBA0126208A235624A3B4CF3AE48F08",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "4E43143CFB8846166799E764905F6D692B753AED",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MasterMaterials/MM_VP_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "E073763CF97227FDD7AB9949185AE09661AD1948",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "4E68E73C213DB8182D32EC6DFED98DEE438DABCB",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D331933DB8D81D00936BE5B1B29B8847A60BD0DE",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_HayStack"
+			]
+		},
+		{
+			"ShaderMapHash": "E22BAB3DC46D6308036EA4248EA622E2167F0A8C",
+			"Assets": [
+				"/Game/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta"
+			]
+		},
+		{
+			"ShaderMapHash": "ADF9783E451BBD6F426646EA73173D5A3143BC07",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "B42DFD3E6D57209A942B07F157D676BA3EAF29DA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "281F303F35CCC695DB6CD365B7A9D8F39F2F29A6",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MI_Cloth4"
+			]
+		},
+		{
+			"ShaderMapHash": "320CDD401E151F5CC714EE553957578BCA2EBF02",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B92844421B13F4D286208AF8756EDA1C5A37401F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "428196425AA220EDA5A5E28ACBD4BF917F63F12F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "330CC643A8ED7DA3556727C78310B524B6ED24B4",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "5334004606BF4A572E47CD992CB84902B88CF5C4",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MI_Base_Inst14",
+				"/Game/HauntedVillage/Materials/MI_Base_Inst21",
+				"/Game/HauntedVillage/Materials/MI_Base_Inst23",
+				"/Game/HauntedVillage/Materials/MI_Base_Inst24",
+				"/Game/HauntedVillage/Materials/MI_Base_Inst5"
+			]
+		},
+		{
+			"ShaderMapHash": "39929646DBD5649A43AB72B500E78C7326430533",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "33A8D147EF0375454C59CA6C643345594E75FFC7",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D6680548DFE49C1A2C69FCA51FBB438448771FBD",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CF64C24A127504D76E9495B812AFFB6FD92A7EFB",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1F9A704CE933CF09A9679575541AEB5A81B36429",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/MI_Wood_02"
+			]
+		},
+		{
+			"ShaderMapHash": "2A03254E00FA3466736E8592A0E755575AF9FDA8",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "5F8DD94F78FD4D802642B20F2944BD8B7310A567",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "FDCB6A5622AC70E18094493440C02A4F7E56D225",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MasterMaterials/MM_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "668DE7567F8DB2BF7144C4CC14F8F396847ABCBD",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F3F16F580CCD0648A6CBAB1128925B2B2928062D",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F97F436228CCA61ECCDA8398D8741685DD0BC86D",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_Foilage_Still"
+			]
+		},
+		{
+			"ShaderMapHash": "68E3CD657274F7E3BC7094C24D137A1951272DE1",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FD9D826A181223FFA8973616259762977E852C47",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "96B030703B088BAEDCA5E8382DA0D8A3B402C1C6",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "D0CAB370B33CE7B7A3D3ED890BAF3FE11FEFAFBC",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "979A4475E0B6772FE78F89F40310043023AB5238",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B6E661757C3BD3212E4719FB914D8CD76B6BA085",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_Water02"
+			]
+		},
+		{
+			"ShaderMapHash": "101743764C61406703088531E6C8FC14499CEF1D",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_Road"
+			]
+		},
+		{
+			"ShaderMapHash": "239FCE79F06C0BE9976135AC0D3B2783BE974F36",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "7EEF217AA009844828D5281B2B39FC8843D9F4C8",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/MI_Wheel_01"
+			]
+		},
+		{
+			"ShaderMapHash": "49D3FF7B126457D23C44BD8BE5C422C6045DBD70",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "0EA1227FF5CE7CF1859E669782B686D5C2EF0693",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "ABFF267F4A5A10C4D79AF096123116690BC088D5",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "F5B991803F60C6CE811150D5D0697285994343E9",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MasterMaterials/MM_Tree",
+				"/Game/HauntedVillage/Materials/MI_Tree_Inst1",
+				"/Game/HauntedVillage/Materials/MI_Tree_Inst2",
+				"/Game/HauntedVillage/Materials/MI_Tree_Inst5"
+			]
+		},
+		{
+			"ShaderMapHash": "784E9C82B4167EE00DEB43921EF30E6CE24CA408",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "01D5D083E35A33940BCD624CE62F8BA0645A48B4",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/MI_Wood_Door_01"
+			]
+		},
+		{
+			"ShaderMapHash": "70F41084DC7274E8BDC9D6CA5F79A8B4A8BA00A5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "75A10B8615BAF96A00567706D91D709455B93C98",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6104FC86E498E54E678B7A780033B2F2E73865C3",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/MI_Church_Wall",
+				"/Game/Abandoned_Village/Materials/MI_Wall_01",
+				"/Game/Abandoned_Village/Materials/MI_Wall_01b",
+				"/Game/Abandoned_Village/Materials/MI_Wall_02",
+				"/Game/Abandoned_Village/Materials/MI_Wall_03",
+				"/Game/Abandoned_Village/Materials/MI_Wall_05",
+				"/Game/Abandoned_Village/Materials/MI_Wall_05b",
+				"/Game/Abandoned_Village/Materials/MI_Wall_06",
+				"/Game/Abandoned_Village/Materials/MI_Wall_07"
+			]
+		},
+		{
+			"ShaderMapHash": "071A368AED21F74208F51629EA0329E2E3431E2D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "CE02168B68A16056B2B7369C4E1C6B87CE7521F8",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_BlendMat_UV_Roof",
+				"/Game/Abandoned_Village/Materials/MI_FlatStone",
+				"/Game/Abandoned_Village/Materials/MI_Roof_03",
+				"/Game/Abandoned_Village/Materials/MI_Roof_08"
+			]
+		},
+		{
+			"ShaderMapHash": "AB7F5F918EB9886C8E52123DCC8A045AF8F02874",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D0B27E91A8140BCA61EFE5503623AE0F890A2F05",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "A8073B932E1D9FE11B16A0FDA6CAD9CDF69E5EC8",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_Mesh_Decal"
+			]
+		},
+		{
+			"ShaderMapHash": "9A805098C42C67B3FA48E9A48F53CADC3E7E5366",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "440ED4980DEEA500D2DC86924A327CCE27EE245C",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/HauntedVillage/Demo/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "AFF4069943148BEDEFB850C29CE2AA9947255EAE",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "FC39D299DD4B16A2E7E8C06CF7C52B73C2500177",
+			"Assets": [
+				"/Game/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/Demo/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "82E6DC9C596DD6AAA8C097ED02381484874420E5",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FA83149DFDB9EA3403AE1E8126D577E57E227C20",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "5986B79F00C7CF5A653ECD7D46A736667B6451C0",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "7BDC1FA06BE59BF740629282C15475DC3B0B5935",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "533210A191DDE777697662714A8C479C4C8D8B94",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E0895FA36DAD937823BB30781809DFF5FBDDBF28",
+			"Assets": [
+				"/Game/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/Pistol/Material/M_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "6B6C41A7C27F729AA6993F1A641BCA78C86EF73C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "AE7CF8AD1405F3CA9BF4BF86DAFEBADB569DFBC0",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_SurfaceBlend"
+			]
+		},
+		{
+			"ShaderMapHash": "AD69D3AF3545591D83DF72076041313E814966E9",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_Landscape"
+			]
+		},
+		{
+			"ShaderMapHash": "B3602CB5BE34B235EC8ACE178C59D95B6347228F",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DC6512B702321CD89FB87A66500904AD1093AD2C",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MI_Base_Inst12",
+				"/Game/HauntedVillage/Materials/MI_Base_Inst13",
+				"/Game/HauntedVillage/Materials/MI_Base_Inst8",
+				"/Game/HauntedVillage/Materials/MI_Base_Inst9"
+			]
+		},
+		{
+			"ShaderMapHash": "3BE602B8E175816EC73511C5F2A452627A66092E",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MI_VP_Base_Ins2",
+				"/Game/HauntedVillage/Materials/MI_VP_Base_Inst1"
+			]
+		},
+		{
+			"ShaderMapHash": "954963B9C912408235B1C1AAF27BE8C1DD243874",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C3DCD4BBF3F672A0FEB60B8AE2049A9FF10562D1",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E79A18BED5E6066E1CA4CBA0F87C19DB81F2D699",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_Water"
+			]
+		},
+		{
+			"ShaderMapHash": "49C1B8C0CFAD53420B2A684C38747EBA3B5E0AFA",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_BlendMat"
+			]
+		},
+		{
+			"ShaderMapHash": "0DD5C3C0C3599D4BF4FC594CA7BE71277900632E",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "885C22C162FE79F8AA8390BE1E0659D6D9363735",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_Basic"
+			]
+		},
+		{
+			"ShaderMapHash": "2B8F69C215EBFD12AAF73B462E9B4CABD3858E88",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "E79DBFC67CC5B9C37C59D1F7AEADC852F137087F",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MasterMaterials/MM_Wind_VP"
+			]
+		},
+		{
+			"ShaderMapHash": "720508C9D0AC5E6CBB7F33ACB71A5BDEAAFE33AC",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/MI_Bottle_02",
+				"/Game/Abandoned_Village/Materials/MI_Bucket",
+				"/Game/Abandoned_Village/Materials/MI_Sac_01",
+				"/Game/Abandoned_Village/Materials/MI_Shovel"
+			]
+		},
+		{
+			"ShaderMapHash": "38D40CCAEB82E9EB230018255E3E3485A98C9E5B",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "5BEAA9CB39711C335230B055AEC3243143E32675",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E3E28DCC23B91583170180881B052C88A5A1E94C",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "E542F0CCC8DF317C415A1151C2A686A5DACE3B9E",
+			"Assets": [
+				"/Game/AbandonedPool/Materials/MM_Decals"
+			]
+		},
+		{
+			"ShaderMapHash": "CDD6F6D0AAACD600E94525FBEEA46E214381CE46",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "137B4DD3656192F442A288BEC106AD54B4A79B2C",
+			"Assets": [
+				"/Game/Levels/PersonalLevels/GD/CampagnoloLeonardo_Content/M_Wood_Floor_Walnut_Worn1"
+			]
+		},
+		{
+			"ShaderMapHash": "45D1B3D3DF379F1124F1A67A773A0A1AAF3804EE",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MasterMaterials/MM_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "3E481FD556500629B5BD4D42760074172FAB0947",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D0F0ADD981E98C754967A2D65578BE04D0215239",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4848D1DA8DFB44C388988E65B92CE1D923FE4130",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/MI_Church_Roof",
+				"/Game/Abandoned_Village/Materials/MI_Roof_05"
+			]
+		},
+		{
+			"ShaderMapHash": "8F6D61DBB49E2E315749A4E3AF8F24C943A1D25D",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/MI_LightPole_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "925802DDB0B2ED4D099B050E5B6B41EE00A5353A",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "F9506EDF1C4EFA38AC0002A537C3173507C6B07F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "E74C3AE1977BE47D188CD23358E169CBB2239DEB",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "E3C4E8E29A684F4E2FCE5BD88EE781E49053D54D",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "681ECCE45BEABB9A10F6FD661D38D5786BE07A1F",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/MI_Cart_02",
+				"/Game/Abandoned_Village/Materials/MI_Lantern_01",
+				"/Game/Abandoned_Village/Materials/MI_Lantern_02"
+			]
+		},
+		{
+			"ShaderMapHash": "594065E72A7093391582B10995CDB6693CF3EFE3",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MasterMaterials/MM_Fog"
+			]
+		},
+		{
+			"ShaderMapHash": "E3498DE9AC0FD359750CFDB8475D4107B467691F",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_Road"
+			]
+		},
+		{
+			"ShaderMapHash": "420662EA92857DF723BFBEF31469ED1A463E0996",
+			"Assets": [
+				"/Game/Abandoned_Village/Materials/Masters/MM_Decal"
+			]
+		},
+		{
+			"ShaderMapHash": "CDE515EDEFF40586792B05FFD53E8CB9BCB12E8E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "87DEE7EFEF652598D353588C871FA9CD85A047E1",
+			"Assets": [
+				"/Game/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta"
+			]
+		},
+		{
+			"ShaderMapHash": "1CBF0FF003C1D3948EB9246530A539212FB1D143",
+			"Assets": [
+				"/Game/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta"
+			]
+		},
+		{
+			"ShaderMapHash": "4FF8D7F205B18F81AB074634A0DAE66CB1011324",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "FF1145F6A7D2C96D666CB7F3A5DFD7F11B0D3512",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CA72D0F7944C4563C70D133F64977044A60EBE0B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "92A2D6F95B0A60DCB12C82C133D50AEA0FF0C97B",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9CC9BCFB1252CD82B805F55F219E2DC1B1C5BCF4",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9F7AA6FD9E1FB9EC7BC35C7BCF6EB83B7AA3F46F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B8EA60FFE99546B98CD0B1C4C5A867866DBA50E9",
+			"Assets": [
+				"/Game/HauntedVillage/Materials/MasterMaterials/MM_Vegatation1"
+			]
+		}
+	]
+}
