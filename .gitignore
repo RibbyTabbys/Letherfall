@@ -76,4 +76,3 @@ Plugins/*/Intermediate/*
 # Ignore Cache files for the editor to use
 DerivedDataCache/*
 Letherfall/Saved/AutoScreenshot.png
-Letherfall/Intermediate/CachedAssetRegistry_0.bin
