@@ -5,26 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_RiccardoMenghi.umap",
-				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/Blueprints/BP_Character.uasset",
-				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/Input/IMC_PlayerCtrl.uasset",
-				"C:/Users/mengh/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_RiccardoMenghi.umap",
-				"C:/Users/mengh/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/HauntedVillage/Meshes/SM_Tree_09.uasset",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_FrancescoCelata.umap",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/HauntedVillage/Meshes/SM_Tree_05.uasset",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/HauntedVillage/Meshes/SM_Tree_08.uasset",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/HauntedVillage/Meshes/SM_Tree_03.uasset",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/HauntedVillage/Meshes/SM_Tree_04.uasset",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Abandoned_Village/Meshes/Structure/SM_Church_C_Wall_Corner.uasset",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta.umap",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/LunettaDavide_Content/WBP_VS/WBP_Tutorial_1.uasset",
-				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/LunettaDavide_Content/BP/BP_TutorialSpawner.uasset",
-=======
-				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap",
->>>>>>> Stashed changes
-				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_FrancescoCelata.umap"
+				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap"
 			]
 		}
 	]
