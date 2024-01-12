@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap",
+				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Template/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/System/Blueprints/BP_Character.uasset",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/LunettaDavide_Content/WBP_VS/WBP_Tutorial_1.uasset",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta.umap",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap",
@@ -20,8 +23,7 @@
 				"C:/Users/mengh/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_RiccardoMenghi.umap",
 				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap",
 				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_FrancescoCelata.umap",
-				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
-				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap"
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap"
 			]
 		}
 	]
