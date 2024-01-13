@@ -1,0 +1,9 @@
+[0112/123840.328:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0112/124036.653:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0112/131836.329:ERROR:cache_util_win.cc(20)] Unable to move the cache: Accesso negato. (0x5)
+[0112/131836.330:ERROR:cache_util.cc(144)] Unable to move cache folder D:/Letherfall/Letherfall/Letherfall/Saved/webcache_4430\Cache to D:/Letherfall/Letherfall/Letherfall/Saved/webcache_4430\old_Cache_000
+[0112/131836.362:ERROR:disk_cache.cc(184)] Unable to create cache
+[0112/131905.741:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0112/132035.329:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0112/232934.297:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0112/232934.304:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
