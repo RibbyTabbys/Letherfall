@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/FrankAdamss/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Armored/Amored_MAT.uasset",
 				"C:/Users/FrankAdamss/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Armored/Armored_MAT2.uasset",
 				"C:/Users/FrankAdamss/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
@@ -37,6 +38,21 @@
 				"C:/Users/aleri/Documents/Unreal Projects/Letherfall/Letherfall/Content/Blueprints/Enemy/AI/BT_EnemyBase.uasset",
 				"C:/Users/aleri/Documents/Unreal Projects/Letherfall/Letherfall/Content/Blueprints/Enemy/AI/BB_EnemyBase.uasset",
 				"C:/Users/aleri/Documents/Unreal Projects/Letherfall/Letherfall/Content/Blueprints/Enemy/AI/AIC_BaseEnemy.uasset",
+=======
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_FrancescoCelata.umap",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Basic_Enemy/Attack_Basic.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Basic_Enemy/Attack_Basic_PhysicsAsset.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Basic_Enemy/Attack_Basic_Skeleton.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Basic_Enemy/Animations/Attack_Basic_Anim.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Basic_Enemy/Animations/Chase_Basic_Anim.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Basic_Enemy/Animations/Idle_Basic_Anim.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Basic_Enemy/Animations/Turn_Left_Basic_Anim.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Basic_Enemy/Animations/Turn_Right_Basic_Anim.uasset",
+				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/Francesco_C/MyContent/Enemies/Basic_Enemy/Animations/Walk_Basic_Anim.uasset",
+				"D:/Epic/Engine/UE_5.3/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/GD/LunettaDavide_Content/WBP_VS/WBP_Tutorial_1.uasset",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_DavideLunetta.umap",
 				"C:/Users/david/Desktop/Bigger One/Repository/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap",
@@ -50,9 +66,6 @@
 				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/UI/Widgets/WP_Cross.uasset",
 				"C:/Users/alex_/Desktop/Ale/BiggerOne/Letherfall/Content/Levels/PersonalLevels/VGP/Alessandro_C/PistolAnimation/Demo/Mesh/SK_Character_Skeleton.uasset",
 				"C:/Users/mengh/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_RiccardoMenghi.umap",
-				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap",
-				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_FrancescoCelata.umap",
-				"D:/AIV/Bigger One/Progetto Git/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_Main.umap",
 				"C:/Users/scamp/Documents/GitHub/Letherfall/Letherfall/Content/Levels/PersonalLevels/VerticalSlice/VerticalSlice_LeonardoCampagnolo.umap"
 			]
 		}
