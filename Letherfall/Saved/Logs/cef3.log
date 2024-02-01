@@ -1,23 +1,2 @@
-[0113/165001.257:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0113/165001.422:ERROR:entry_impl.cc(1075)] No file for c10300ee
-[0113/165001.423:WARNING:storage_block-inl.h(146)] Failed data load.
-[0113/165001.423:WARNING:storage_block-inl.h(146)] Failed data load.
-[0113/165001.423:WARNING:storage_block-inl.h(146)] Failed data load.
-[0113/165001.423:WARNING:storage_block-inl.h(146)] Failed data load.
-[0113/165001.423:ERROR:entry_impl.cc(1075)] No file for c10300f4
-[0113/165001.423:WARNING:storage_block-inl.h(146)] Failed data load.
-[0113/165001.423:WARNING:storage_block-inl.h(146)] Failed data load.
-[0113/165001.423:WARNING:storage_block-inl.h(146)] Failed data load.
-[0113/165001.423:WARNING:storage_block-inl.h(146)] Failed data load.
-[0113/165001.642:ERROR:entry_impl.cc(1075)] No file for c10300f2
-[0113/165001.676:WARNING:storage_block-inl.h(146)] Failed data load.
-[0113/165001.676:WARNING:storage_block-inl.h(146)] Failed data load.
-[0113/165001.877:WARNING:storage_block-inl.h(146)] Failed data load.
-[0113/165008.704:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0113/165016.748:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 5
-[0113/165016.863:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 9
-[0113/165016.863:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 7
-[0113/165016.863:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 13
-[0113/165016.863:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 11
-[0113/165020.348:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 41
-[0113/165111.751:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0201/220714.172:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0201/220906.955:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
